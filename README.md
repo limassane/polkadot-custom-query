@@ -1,4 +1,4 @@
-# polkadot-custom-query
+# polkadot-custom-query 
 This script provides a flexible interface for executing custom queries on the Polkadot blockchain.
 
 from substrateinterface import SubstrateInterface, Keypair
